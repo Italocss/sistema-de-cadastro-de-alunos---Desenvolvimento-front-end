@@ -28,13 +28,13 @@ Este projeto é a interface (Front-end) de um sistema simples para gerenciar e c
 
 1.  Clone o repositório:
     ```bash
-    git clone [https://github.com/Seu-Usuario/Sistema-Cadastro-Alunos.git](https://github.com/Seu-Usuario/Sistema-Cadastro-Alunos.git)
+    git clone (https://github.com/Italocss/Sistema-Cadastro-Alunos)
     ```
 2.  Navegue até a pasta do projeto:
     ```bash
     cd Sistema-Cadastro-Alunos
     ```
-3.  Abra o arquivo `index.html` (ou o nome do seu arquivo principal) diretamente no seu navegador.
+3.  Abra o arquivo `index.html` diretamente no seu navegador.
 
 ---
 
